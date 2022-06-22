@@ -1,4 +1,4 @@
-package com.macademia.Employee;
+package com.macademia.interview;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

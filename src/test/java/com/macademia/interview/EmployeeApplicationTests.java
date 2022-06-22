@@ -1,4 +1,4 @@
-package com.macademia.Employee;
+package com.macademia.interview;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

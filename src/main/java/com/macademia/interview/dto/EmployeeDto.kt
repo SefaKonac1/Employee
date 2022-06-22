@@ -1,4 +1,13 @@
 package com.macademia.interview.dto
 
-class EmployeeDto {
-}
+import java.time.LocalDateTime
+
+data class EmployeeDto(
+    val id: String?,
+    val name: String?,
+    val surname: String?,
+    val startedDate: Int?,
+    val department: String?,
+    val officeLocation: String?,
+    val income: Double?
+)
